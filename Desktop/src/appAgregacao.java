@@ -6,19 +6,19 @@ public static void main (String[] args) {
 	//para usar algum metodo do objeto crado a partir da classe agregada
 	// devemos usar o identificador do objeto
 	//slot1
-	desk.slot1.setMarcar("Samsung");
+	desk.slot1.setMarcar("");
 	desk.slot1.setCapacidade(16);
 	
 	//slot2
-	desk.slot2.setMarcar("Kingston");
+	desk.slot2.setMarcar("");
 	desk.slot2.setCapacidade(8);
 	
 	//slot3
-	desk.slot3.setMarcar("Sandisk");
+	desk.slot3.setMarcar("");
 	desk.slot3.setCapacidade(4);
 	
 	//slot4
-	desk.slot4.setMarcar("Crucial");
+	desk.slot4.setMarcar("");
 	desk.slot4.setCapacidade(2);
 	
     //total de memoria:
